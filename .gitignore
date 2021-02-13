@@ -1,3 +1,6 @@
+*.vs
+*.obj
+*.exe
 *.bc
 *.dSYM
 *.done
